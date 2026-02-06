@@ -14,7 +14,7 @@ MODEL_PATH = "model/best_model.keras"
 IMG_SIZE = (224, 224)
 CLASS_NAMES = ["Normal", "Tuberculosis"]
 
-FILE_ID = "1yPQhpal3_QiVWe5rs2JZSUFFX1K0_9Wv"
+FILE_ID = "1CV1InkqHp4uEg9jSgByBFhJ_jmt24CTV"
 
 app = FastAPI(title=APP_TITLE)
 model = None
